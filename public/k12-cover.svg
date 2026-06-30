@@ -1,0 +1,45 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 450" fill="none">
+  <rect width="800" height="450" rx="12" fill="#FAFAF8"/>
+  <!-- header bar -->
+  <rect x="32" y="28" width="736" height="44" rx="8" fill="#F0EFEB"/>
+  <text x="56" y="56" font-family="Inter, sans-serif" font-size="14" fill="#A3A3A3">K12 AI 解题</text>
+  <circle cx="734" cy="50" r="8" fill="#E5E3DD"/>
+  <circle cx="710" cy="50" r="8" fill="#E5E3DD"/>
+  <circle cx="686" cy="50" r="8" fill="#E5E3DD"/>
+  <!-- chat area -->
+  <rect x="32" y="88" width="500" height="52" rx="10" fill="#E8EFF6"/>
+  <text x="52" y="112" font-family="Inter, sans-serif" font-size="14" fill="#1A1A1A" font-weight="500">已知 f(x)=3x²+2x−5，求 f(2) 的值</text>
+  <text x="52" y="131" font-family="Inter, sans-serif" font-size="11" fill="#A3A3A3">学生提问 · 初三数学 · 二次函数</text>
+  <!-- answer -->
+  <rect x="268" y="156" width="500" height="150" rx="10" fill="#FFFFFF" stroke="#E5E3DD" stroke-width="1"/>
+  <text x="288" y="178" font-family="Inter, sans-serif" font-size="12" fill="#2B5F8A" font-weight="600">AI 解题步骤</text>
+  <text x="288" y="200" font-family="JetBrains Mono, monospace" font-size="11" fill="#6B6B6B">Step 1  代入 x=2：f(2)=3×(2)²+2×2−5</text>
+  <text x="288" y="220" font-family="JetBrains Mono, monospace" font-size="11" fill="#6B6B6B">Step 2  计算：3×4+4−5</text>
+  <text x="288" y="240" font-family="JetBrains Mono, monospace" font-size="11" fill="#6B6B6B">Step 3  结果：12+4−5 = 11</text>
+  <text x="288" y="266" font-family="Inter, sans-serif" font-size="11" fill="#A3A3A3">✅ 准确率 91.2% · 来源：初中数学知识库</text>
+  <text x="288" y="288" font-family="Inter, sans-serif" font-size="11" fill="#A3A3A3">📚 引用 3 个相关知识点 · 8000+ 题库</text>
+  <!-- sidebar -->
+  <rect x="32" y="88" width="220" height="218" rx="10" fill="#FFFFFF" stroke="#E5E3DD" stroke-width="1"/>
+  <text x="52" y="112" font-family="Inter, sans-serif" font-size="12" fill="#1A1A1A" font-weight="600">知识库</text>
+  <rect x="40" y="122" width="204" height="26" rx="6" fill="#F0EFEB"/>
+  <text x="52" y="140" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">📐 二次函数 · 3年级</text>
+  <rect x="40" y="154" width="204" height="26" rx="6" fill="#F0EFEB"/>
+  <text x="52" y="172" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">📏 一次方程 · 2年级</text>
+  <rect x="40" y="186" width="204" height="26" rx="6" fill="#F0EFEB"/>
+  <text x="52" y="204" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">📊 概率统计 · 3年级</text>
+  <rect x="40" y="218" width="204" height="26" rx="6" fill="#F0EFEB"/>
+  <text x="52" y="236" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">🔢 因式分解 · 2年级</text>
+  <text x="52" y="280" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">5 大学科 · 12 个年级 · 8000+ 题</text>
+  <!-- bottom stats -->
+  <rect x="32" y="360" width="736" height="62" rx="10" fill="#FFFFFF" stroke="#E5E3DD" stroke-width="1"/>
+  <text x="56" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">3.2万</text>
+  <text x="56" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">服务学生</text>
+  <text x="176" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">91.2%</text>
+  <text x="176" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">回答准确率</text>
+  <text x="316" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">600万+</text>
+  <text x="316" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">预估合同额</text>
+  <text x="476" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">45%</text>
+  <text x="476" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">多轮对话率</text>
+  <text x="616" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">4×</text>
+  <text x="616" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">RAG工作流</text>
+</svg>
