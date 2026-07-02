@@ -33,7 +33,7 @@ function DownloadButton() {
       const url = URL.createObjectURL(blob)
       const a = document.createElement('a')
       a.href = url
-      a.download = 'resume.pdf'
+      a.download = '张寅.pdf'
       a.click()
       URL.revokeObjectURL(url)
       setState('done')
