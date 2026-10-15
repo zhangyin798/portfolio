@@ -14,7 +14,7 @@ export default function SkillSection() {
         ))}
       </div>
       <p className="text-sm text-text-muted leading-relaxed mt-5">
-        擅长 RAG 架构设计、Agent 工具链搭建。做过健身教练和 K12 解题两个 AI 产品，都是从 0 到 1。
+        擅长 RAG 架构设计、Agent 工具链搭建。做过健身教练和玉柴集团内部知识库两个 AI 产品，都是从 0 到 1。
       </p>
     </div>
   )
