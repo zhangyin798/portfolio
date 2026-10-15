@@ -16,7 +16,6 @@ const gridItem = {
 const emojiMap: Record<string, string> = {
   '个人 SaaS 系统': '⚡',
   '原力健身': '🏃',
-  '玉柴集团工艺智能体': '🏭',
 }
 
 /* ──────────── Lightbox ──────────── */
