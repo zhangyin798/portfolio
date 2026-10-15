@@ -2,44 +2,44 @@
   <rect width="800" height="450" rx="12" fill="#FAFAF8"/>
   <!-- header bar -->
   <rect x="32" y="28" width="736" height="44" rx="8" fill="#F0EFEB"/>
-  <text x="56" y="56" font-family="Inter, sans-serif" font-size="14" fill="#A3A3A3">玉柴集团内部知识库</text>
+  <text x="56" y="56" font-family="Inter, sans-serif" font-size="14" fill="#A3A3A3">玉柴集团工艺智能体</text>
   <circle cx="734" cy="50" r="8" fill="#E5E3DD"/>
   <circle cx="710" cy="50" r="8" fill="#E5E3DD"/>
   <circle cx="686" cy="50" r="8" fill="#E5E3DD"/>
   <!-- chat area -->
   <rect x="32" y="88" width="500" height="52" rx="10" fill="#E8EFF6"/>
-  <text x="52" y="112" font-family="Inter, sans-serif" font-size="14" fill="#1A1A1A" font-weight="500">YC6K 柴油机的常见故障排查流程是什么？</text>
-  <text x="52" y="131" font-family="Inter, sans-serif" font-size="11" fill="#A3A3A3">员工提问 · 售后部 · 设备维修</text>
+  <text x="52" y="112" font-family="Inter, sans-serif" font-size="14" fill="#1A1A1A" font-weight="500">缸体精镗工序的推荐切削参数是多少？</text>
+  <text x="52" y="131" font-family="Inter, sans-serif" font-size="11" fill="#A3A3A3">员工提问 · 工艺部 · 参数推荐</text>
   <!-- answer -->
   <rect x="268" y="156" width="500" height="150" rx="10" fill="#FFFFFF" stroke="#E5E3DD" stroke-width="1"/>
-  <text x="288" y="178" font-family="Inter, sans-serif" font-size="12" fill="#2B5F8A" font-weight="600">AI 知识问答</text>
-  <text x="288" y="200" font-family="JetBrains Mono, monospace" font-size="11" fill="#6B6B6B">Step 1  检索匹配：定位维修手册与工艺标准</text>
-  <text x="288" y="220" font-family="JetBrains Mono, monospace" font-size="11" fill="#6B6B6B">Step 2  知识整合：交叉引用历史维修案例</text>
-  <text x="288" y="240" font-family="JetBrains Mono, monospace" font-size="11" fill="#6B6B6B">Step 3  生成：输出分步排查与解决方案</text>
-  <text x="288" y="266" font-family="Inter, sans-serif" font-size="11" fill="#A3A3A3">✅ 准确率 91.2% · 来源：售后维修知识库</text>
-  <text x="288" y="288" font-family="Inter, sans-serif" font-size="11" fill="#A3A3A3">📚 引用 3 个相关文档 · 8000+ 内部文档</text>
+  <text x="288" y="178" font-family="Inter, sans-serif" font-size="12" fill="#2B5F8A" font-weight="600">AI 智能问答</text>
+  <text x="288" y="200" font-family="JetBrains Mono, monospace" font-size="11" fill="#6B6B6B">Step 1  检索匹配：定位工艺文件与参数标准</text>
+  <text x="288" y="220" font-family="JetBrains Mono, monospace" font-size="11" fill="#6B6B6B">Step 2  向量召回：交叉引用历史工艺案例</text>
+  <text x="288" y="240" font-family="JetBrains Mono, monospace" font-size="11" fill="#6B6B6B">Step 3  生成：输出推荐参数与依据</text>
+  <text x="288" y="266" font-family="Inter, sans-serif" font-size="11" fill="#A3A3A3">✅ 准确率 92% · 来源：结构化工艺知识库</text>
+  <text x="288" y="288" font-family="Inter, sans-serif" font-size="11" fill="#A3A3A3">📚 引用 3 个相关文档 · 覆盖 6 大生产车间</text>
   <!-- sidebar -->
   <rect x="32" y="88" width="220" height="218" rx="10" fill="#FFFFFF" stroke="#E5E3DD" stroke-width="1"/>
-  <text x="52" y="112" font-family="Inter, sans-serif" font-size="12" fill="#1A1A1A" font-weight="600">知识库</text>
+  <text x="52" y="112" font-family="Inter, sans-serif" font-size="12" fill="#1A1A1A" font-weight="600">四大模块</text>
   <rect x="40" y="122" width="204" height="26" rx="6" fill="#F0EFEB"/>
-  <text x="52" y="140" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">📄 技术文档 · 研发中心</text>
+  <text x="52" y="140" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">📄 AI 问答助手 · 知识库</text>
   <rect x="40" y="154" width="204" height="26" rx="6" fill="#F0EFEB"/>
-  <text x="52" y="172" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">📏 工艺标准 · 制造部</text>
+  <text x="52" y="172" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">🔧 参数推荐 · 工艺优化</text>
   <rect x="40" y="186" width="204" height="26" rx="6" fill="#F0EFEB"/>
-  <text x="52" y="204" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">🔧 设备维修 · 售后部</text>
+  <text x="52" y="204" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">📋 文档比对 · 一致性校验</text>
   <rect x="40" y="218" width="204" height="26" rx="6" fill="#F0EFEB"/>
-  <text x="52" y="236" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">📋 产品手册 · 质量部</text>
-  <text x="52" y="280" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">多业务域 · 8000+ 内部文档</text>
+  <text x="52" y="236" font-family="Inter, sans-serif" font-size="11" fill="#6B6B6B">📊 数字化大屏 · 数据可视化</text>
+  <text x="52" y="280" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">6 大生产车间 · 服务 3000+ 员工</text>
   <!-- bottom stats -->
   <rect x="32" y="360" width="736" height="62" rx="10" fill="#FFFFFF" stroke="#E5E3DD" stroke-width="1"/>
-  <text x="56" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">数千名</text>
+  <text x="56" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">3000+</text>
   <text x="56" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">服务员工</text>
-  <text x="176" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">91.2%</text>
-  <text x="176" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">回答准确率</text>
-  <text x="316" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">8000+</text>
-  <text x="316" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">内部文档</text>
-  <text x="476" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">45%</text>
-  <text x="476" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">多轮对话率</text>
-  <text x="616" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">4×</text>
-  <text x="616" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">RAG工作流</text>
+  <text x="176" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">92%</text>
+  <text x="176" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">问答准确率</text>
+  <text x="316" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">6 大</text>
+  <text x="316" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">生产车间</text>
+  <text x="476" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">35%</text>
+  <text x="476" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">效率提升</text>
+  <text x="616" y="388" font-family="Inter, sans-serif" font-size="18" fill="#2B5F8A" font-weight="700">3 分钟</text>
+  <text x="616" y="408" font-family="Inter, sans-serif" font-size="10" fill="#A3A3A3">文件查询耗时</text>
 </svg>
